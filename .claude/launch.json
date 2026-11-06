@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "cubolinhavr", "runtimeExecutable": "python", "runtimeArgs": ["serve.py", "--port", "8863"], "port": 8863 }
+  ]
+}
